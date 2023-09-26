@@ -31,15 +31,15 @@ In the project directory, you can run:
 - Dive deeper into the [React documentation](https://reactjs.org/).
 - Discover the potentials of [Firebase in web apps](https://firebase.google.com/docs/web/setup).
 
-# 🌐 ProChatAz: React and Firebase Web App
+# 🌐 ProChatz: React and Firebase Web App
 
-👤 **Developed by: Shane Douglas**
+ **Developed by: Shane Douglas**
 
 ## 📌 Summary
 
 ProChatAz is a chatting web app Boosted by Firebase's robust backend and animated with React's dynamic interface.
 
-## 🎯 Features
+##  Features
 
 - 🌟 User Profiles
 - 🔒 Secure Authentication using Firebase
@@ -52,7 +52,7 @@ To harness the full potential of ProChatAz, you will need to:
 1. Set up Firebase for your project.
 2. Familiarize with React's core concepts.
 
-## 🚀 Setup
+##  Setup
 
 ### Firebase Setup
 
@@ -60,7 +60,6 @@ To harness the full potential of ProChatAz, you will need to:
 
 ## 🎥 Project Demo
 
-Witness ProChatz in action:
 
 - **Login/Register**:
 ![Login/Register Demo](URL_TO_LOGIN_GIF)
@@ -70,7 +69,7 @@ Witness ProChatz in action:
   
 ## 📝 Notes
 
-- ❤️ Feedback, queries, or any form of interaction is always appreciated. Dive in and experience ProChatAz!
+- ❤ Feedback, queries, or any form of interaction is always appreciated!
 
 ## 📜 License
 
