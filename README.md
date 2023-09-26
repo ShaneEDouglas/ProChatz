@@ -3,7 +3,7 @@ Of course, let's adjust that to fit the ProChatAz web app. Here's the enhanced R
 
 markdown
 Copy code
-# 🚀 Getting Started with ProChatAz
+# 🚀 Getting Started with ProChatz
 
 ProChatz is a cutting-edge web app crafted with [React](https://reactjs.org/) and secured by [Firebase](https://firebase.google.com/).
 
